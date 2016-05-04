@@ -1,0 +1,28 @@
+name: BTR Productions
+favicon: null
+layout_spectrum: 0.051520737586542964
+typography_spectrum: 0.9125246154144406
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7743361934553832
+  lightness: 0.28590345848351717
+  saturation: 0.7857895912602544
+  rhythmicContrast: 0.7256011229474097
+purpose: []
